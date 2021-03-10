@@ -1,0 +1,4 @@
+ContactBook {
+Id=1	firstName=Oleh	lastName=Mir	address=Poltava
+Id=2	firstName=Vital	lastName=Hui	address=Selo	telephoneNumber=1234131
+}

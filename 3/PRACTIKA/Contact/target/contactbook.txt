@@ -1,0 +1,3 @@
+ContactBook {
+Id=1	firstName=Oleg	lastName=Mir	address=Pol
+}

@@ -1,0 +1,4 @@
+com\miolex\main\Main.class
+com\miolex\domain\TelephoneContact.class
+com\miolex\domain\ContactBook.class
+com\miolex\domain\Contact.class
